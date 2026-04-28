@@ -1,8 +1,8 @@
-# Python Practice 🚀
+# Python Practice 
 
 Repositório criado para registrar minha evolução em **Python**, praticando lógica de programação, estruturas básicas e resolução de problemas.
 
-## 📚 Conteúdo do projeto
+## Conteúdo do projeto
 
 Este repositório contém pequenos projetos e exercícios desenvolvidos para reforçar conceitos importantes da linguagem.
 
