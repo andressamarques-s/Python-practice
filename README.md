@@ -8,7 +8,6 @@ Este repositório contém pequenos projetos e exercícios desenvolvidos para ref
 
 # Projetos disponíveis:
 
-- Calculadora Inteligente
 - Gerador de Senha Segura
 - Jogo de Adivinhação
 - Gerenciador de Tarefas
